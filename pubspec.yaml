@@ -34,13 +34,10 @@ flutter:
   plugin:
     platforms:
       android:
-        default_package: quill_html_editor
         dartPluginClass: QuillHtmlEditor
       ios:
-        default_package: quill_html_editor
         dartPluginClass: QuillHtmlEditor
       web:
-        default_package: quill_html_editor
         dartPluginClass: QuillHtmlEditor
   assets:
       - packages/quill_html_editor/assets/camera_roll_icon.png
