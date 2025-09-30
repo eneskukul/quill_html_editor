@@ -35,8 +35,10 @@ flutter:
     platforms:
       android:
         dartPluginClass: QuillHtmlEditor
+        pluginClass: QuillHtmlEditorPlugin
       ios:
         dartPluginClass: QuillHtmlEditor
+        pluginClass: QuillHtmlEditorPlugin
       web:
         dartPluginClass: QuillHtmlEditor
   assets:
